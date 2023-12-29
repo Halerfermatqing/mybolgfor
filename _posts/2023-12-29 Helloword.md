@@ -1,3 +1,4 @@
+---
 layout: post
 title: Hello world！
 categories: start
@@ -9,6 +10,7 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
+---
 
 # Hello world!
 ## I am coming!!!!!
