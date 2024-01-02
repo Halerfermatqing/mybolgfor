@@ -88,7 +88,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/halerfermatqing/halerfermatqing.github.io/issues) 与我取得联系。
 
-<img width="192px" height="192px" src="https://halerfermatqing.github.io/assets/images/qrcode.png"/>
+<img width="192px" height="192px" src="https://halerfermatqing.github.io/assets/images/qrcode.jpg"/>
 
 ## 致谢
 
