@@ -14,9 +14,6 @@ mindmap2: false
 
 
 
-以下是您提供的文档的Markdown格式转换：
-
-```markdown
 # 奥巴马医疗改革简介
 
 《患者保护与平价医疗法案》（英语：Patient Protection and Affordable Care Act，PPACA），亦称为《平价医疗法案》（英语：Affordable Care Act，ACA），俗称Obamacare（奥巴马医改），是美国第111届国会制定的联邦法规，由巴拉克·奥巴马总统于2010年3月23日签署成为法律。加上《2010年医疗卫生和教育协调法》修正案，意味此两项措施是美国医疗系统自1965年通过联邦医疗保险（Medicare）与联邦医疗补助（Medicaid）之后，最重要的监管改革，而覆盖范围亦有所扩张。
