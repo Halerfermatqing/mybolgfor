@@ -12,7 +12,7 @@ mindmap: false
 mindmap2: false
 ---
 
-![Image title](csdiy/title.png)
+![Image title](https://cdn.jsdelivr.net/gh/Halerfermatqing/images_bed@main/typora/202406031531579.png)
 
 # 前言
 
@@ -103,7 +103,7 @@ mindmap2: false
 
 本书的内容是完全开源免费的，如果你觉得该项目对你真的有帮助，可以给仓库点个 star 或者请作者喝一杯下午茶。
 
-![Image title](csdiy/sponsor.png)
+![Image title](https://cdn.jsdelivr.net/gh/Halerfermatqing/images_bed@main/typora/202406031533764.png)
 
 May 21, 2024
 
@@ -757,7 +757,7 @@ May 21, 2024
 
 计算机领域的知识覆盖面很广并且更新速度很快，因此保持终身学习的习惯很重要。但在日常开发和学习的过程中，我们获取知识的来源相对复杂且细碎。有成百上千页的文档手册，也有寥寥数语的博客，甚至闲暇时手机上划过的某则新闻和公众号都有可能包含我们感兴趣的知识。因此，如何利用现有的各类工具，形成一套适合自己的学习工作流，将不同来源的知识碎片整合进属于自己的知识库，方便之后的查阅与复习，就显得尤为重要。经过两年工作之余的学习后，我磨合出了以下学习工作流：
 
-![img](csdiy/Drawing 2022-10-20 11.23.41.excalidraw.png)
+![img](https://cdn.jsdelivr.net/gh/Halerfermatqing/images_bed@main/typora/202406031533223.png)
 
 ## 底层核心逻辑
 
@@ -1281,7 +1281,7 @@ May 21, 2024
 
 数学大牛 Gilbert Strang 老先生年逾古稀仍坚持授课，其经典教材 [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/) 已被清华采用为官方教材。我当时看完盗版 PDF 之后深感愧疚，含泪花了两百多买了一本英文正版收藏。下面附上此书封面，如果你能完全理解封面图的数学含义，那你对线性代数的理解一定会达到新的高度。
 
-![img](csdiy/linearalgebra5_Front.jpg)
+![img](https://cdn.jsdelivr.net/gh/Halerfermatqing/images_bed@main/typora/202406031534095.jpg)
 
 配合油管数学网红 **3Blue1Brown** 的[线性代数的本质](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)系列视频食用更佳。
 
