@@ -1,0 +1,246 @@
+---
+layout: post
+title: 陆家嘴财经早餐2024年8月21日星期三
+categories: wind
+description: wind陆家嘴财经新闻
+keywords: wind,财经，陆家嘴，早报
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+
+---
+
+
+
+# 陆家嘴财经早餐2024年8月21日星期三
+
+08-21 06:27Wind
+
+EnRA+A-
+
+
+
+收藏到AliceBox
+
+### 热点聚焦
+
+1、**中国和越南发布关于进一步加强全面战略合作伙伴关系、推进中越命运共同体建设的联合声明，双方同意，共同推动开放的区域合作。中国支持东盟建设团结、统一、自强与发展的东盟共同体**，在不断演进的亚太地区架构中保持中心地位，同东盟国家一道推动共建和平、安宁、繁荣、美丽、友好“五大家园”的倡议，加快推进中国－东盟自贸区3.0版建设。
+
+2、**8月LPR报价出炉，1年和5年期以上品种均维持不变，分别为3.35%、3.85%。业内人士认为，8月LPR利率按兵不动符合市场预期，但展望未来或仍有下调空间。**本月中期借款便利（MLF）操作首次晚于LPR，这意味着央行进一步推动LPR与MLF脱钩，并更多与公开市场操作（OMO）利率挂钩。
+
+3、**首个国产3A游戏《黑神话：悟空》8月20日正式上线。游戏平台Steam的数据显示，该游戏发售不到一个小时，同时在线人数即迅速突破百万人，而到了昨日晚间同时在线人数已经突破200万。**根据国游畅销榜统计，截至昨日晚间八点总销量超过450万份，总销售额超过15亿元。受此提振，A股相关概念股亦受到追捧。截至收盘，中信出版、浙版传媒涨停，华谊兄弟大涨逾19%，近5个交易日累计大涨超70%。其它游戏股方面，新迅达“20cm”涨停，顺网科技涨超7%，迅游科技涨超5%。民生证券指出，《黑神话：悟空》在一定程度上也标志中国本土开发商具备全球认可3A大作研发实力，游戏工业化水平更进一步。
+
+4、**欧盟委员会披露了对从中国进口的纯电动汽车征收最终反补贴税的决定草案，后续将于11月4日前作出最终裁定。**相比欧盟委员会最初制定的税率，欧委会草案对拟议税率进行小幅调整，且不追溯征收反补贴税。其中，比亚迪17.0%，吉利19.3%，上汽集团36.3%，其他合作公司21.3%，其他所有非合作公司36.3%。此外，还决定对特斯拉作为中国出口商实施单独关税税率，现阶段定为9%。最终措施必须在临时关税征收后4个月内实施。包括调查最终结果的委员会实施条例将最迟于2024年10月30日在《官方公报》上公布（最长在调查开始后13个月内）。
+
+### 环球市场
+
+1、**美国三大股指小幅收跌，道指跌0.15%报40834.97点，标普500指数跌0.2%报5597.12点，纳指跌0.33%报17816.94点。纳指与标普500指数终结八连涨。**波音跌4.2%，英特尔跌2.46%，领跌道指。万得美国TAMAMA科技指数跌0.22%，英伟达跌2.12%，特斯拉跌0.73%。纳斯达克中国金龙指数跌约4%。
+
+2、**欧洲主要股指收盘全线下跌**，德国DAX指数跌0.35%至18357.52点，法国CAC40指数跌0.22%至7485.73点，英国富时100指数跌1%至8273.32点。
+
+3、**亚太主要股指收盘多数上涨，**韩国综合指数涨0.83%报2696.63点，日经225指数涨1.8%报38062.92点，澳洲标普200指数涨0.22%报7997.7点，新西兰标普50指数跌0.82%报12558.08点，富时新加坡海峡指数涨0.44%报3370.31点，富时马来西亚综指跌0.36%报1642.77点，印度SENSEX30指数涨0.47%报80802.86点。
+
+4、国际油价全线走低，**美油10月合约跌0.77%报73.09美元/桶，**布油10月合约跌0.63%报77.17美元/桶。
+
+5、**COMEX黄金期货收涨0.42%报2552.1美元/盎司，刷新历史收盘新高**，COMEX白银期货收涨0.57%报29.47美元/盎司。
+
+6、**伦敦基本金属多数收涨，LME期铜跌0.76%**报9181.5美元/吨，LME期锌涨0.27%报2794.5美元/吨，LME期镍涨1.19%报16865美元/吨，LME期铝涨1.25%报2476美元/吨，LME期锡跌1.77%报32000美元/吨，LME期铅涨1.08%报2061美元/吨。
+
+7、芝加哥期货交易所（CBOT）农产品期货主力合约收盘涨跌不一，大豆期货涨0.1%报977美分/蒲式耳；玉米期货跌0.44%报398.5美分/蒲式耳，小麦期货涨0.95%报557.5美分/蒲式耳。
+
+8、**欧债收益率集体收跌，**英国10年期国债收益率跌0.7个基点报3.914%，法国10年期国债收益率跌2.4个基点报2.940%，德国10年期国债收益率跌3.2个基点报2.211%，意大利10年期国债收益率跌2.3个基点报3.589%，西班牙10年期国债收益率跌3.3个基点报3.037%。
+
+9、**美债收益率全线走低**，2年期美债收益率跌8个基点报3.992%，3年期美债收益率跌8个基点报3.793%，5年期美债收益率跌6.7个基点报3.693%，10年期美债收益率跌6.4个基点报3.81%，30年期美债收益率跌6.4个基点报4.061%。
+
+10、纽约尾盘，**美元指数跌0.48%报101.3677**，非美货币集体上涨，欧元兑美元涨0.4%报1.113，英镑兑美元涨0.34%报1.3034，澳元兑美元涨0.22%报0.6747，美元兑日元跌0.9%报145.2645，美元兑加元跌0.09%报1.3621，美元兑瑞郎跌1.01%报0.854，离岸人民币兑美元涨164个基点报7.1171。
+
+
+
+![img](2024-8-21-wind-DailyFinanceNews/%7B186AF8C7-5F3F-11EF-964D-4CCC6AED08A8%7D.jpeg)
+
+
+
+### 宏观
+
+1、**国务院副总理何立峰同俄罗斯副总理切尔内申科共同主持中俄总理定期会晤委员会第二十八次会议。**何立峰指出，中方愿同俄方共同努力，落实好两国元首重要共识，谋划好下一步合作重点，为中俄总理第二十九次定期会晤做好准备。
+
+2、**央行8月20日以固定利率、数量招标方式开展了1491亿元7天期逆回购操作，操作利率为1.7%。**当日有3857亿元逆回购到期，据此计算，单日净回笼2366亿元。
+
+3、**商务部就欧盟对华电动汽车反补贴调查终裁披露答记者问称，欧方此次公布的终裁披露并未充分吸纳中方意见，仍坚持错误做法，裁出高额税率，还利用抽样区别对待中国不同类型企业，扭曲调查结果。**该终裁披露是基于欧方单方认定的“事实”，而非双方共同认可的事实，中方对此坚决反对、高度关切。
+
+4、**商务部介绍，2024年中非合作论坛峰会将于9月4日至6日在北京举行。**商务部回应“非洲债务陷阱论”时指出，中国从来不是非洲债务的主要债权方，数据显示，中非双边债务仅占非洲外债总额的11%。商务部表示，一些人借非洲债务问题捕风捉影，相关批评没有事实依据。
+
+5、**国家发改委负责人表示，将持续优化民营经济发展环境，加快推动出台民营经济促进法。**鼓励民营企业积极参与国家重大战略实施和重点领域安全能力建设、大规模设施更新和消费品以旧换新，支持有能力的民营企业牵头承担国家重大技术攻关任务，向民营企业进一步开放国家重大科研基础设施，促进专精特新中小企业发展壮大，不断破解融资难融资贵的问题。
+
+6、**农业农村部发布关于做好农业农村重大项目谋划储备深化融资对接服务的通知。**其中提到，大力推荐财政支持项目纳入储备。对已获得超长期国债资金、中央预算内投资资金、中央财政转移支付资金等支持的项目，仍有融资需求的，各地要在符合有关政策规定的前提下做好梳理筛选，大力推荐纳入财政支持类融资项目库。
+
+7、国家国际发展合作署与越南有关部门签署推动社会民生领域发展合作项目的谅解备忘录、有关铁路线路规划项目可行性研究换文。
+
+8、当前，多地重点工程建设刷新“进度条”。同时，超长期特别国债、地方债等多路资金陆续到位，持续为项目建设提供有力保障。专家认为，资金项目“双向奔赴”之下，基建投资有望呈现较快增长态势，更好发挥经济运行“稳定器”的作用。
+
+### 国内股市
+
+1、**A股三大指数震荡走低，近4600股下跌。**煤炭、农业、石油、地产、医药、酿酒等板块跌幅居前；银行股表现较为坚挺，工农中建交五大行再创新高；受《黑神话：悟空》爆火提振，传媒游戏板块活跃。截至收盘，上证指数跌0.93%报2866.66点，深证成指跌1.24%，创业板指跌1.34%，科创50跌1.39%，北证50涨0.24%，万得全A跌1.21%，万得A500跌0.92%。市场成交额5614亿元。
+
+2、**香港恒生指数收跌0.33%报17511.08点，恒生科技指数跌0.54%，恒生国企指数跌0.49%。**能源、地产、啤酒股走弱。个股方面，兖煤澳大利亚跌超14%，华润啤酒跌近6%，京东健康、平安好医生跌近5%。大市成交745.33亿港元，南向资金净买入17.94亿港元，盈富基金获净买入4.83亿港元居首，中国海洋石油遭净卖出1.75亿港元最多。中国台湾加权指数收盘涨0.09%报22429.10点。
+
+3、**证监会已在系统内引发《证券期货业信息系统信创分类》，规定了证券期货业信息系统的信创分类方法，用于指导证券期货业各机构对信息系统进行标准化的信创科学分类。**
+
+4、**上交所就长城汽车舆情相关事项发出监管工作函，涉及对象为上市公司、董事、监事、高级管理人员。**据了解，长城汽车因“供货商发生重大失信行为，且影响恶劣”，被南方电网列为“不接受投标”，处理期限为24个月。
+
+5、**截至8月20日，共有27家头部私募管理人（管理规模在50亿元以上）旗下相关产品，二季度跻身于A股67家上市公司前十大流通股股东名单中，合计持有市值近240亿元。**其中，增持公司14家、新进9家、35家持股不变，另有9家公司被减持。多位私募人士表示，从二季度头部私募持仓来看，科技股受到青睐，消费股持仓有所降低。下半年，基于对积极政策产生的效能和企业盈利能力的预期，市场仍值得期待。
+
+6、在多种因素综合影响下，**近年融券余额和转融券余额持续下降，其中融券余额已较历史高位下降逾九成，而转融券余额年内降幅也已超过九成。**有专家认为，融券和转融券余额大幅减少减轻了市场抛售压力，同时也减弱了融券“T+0”日内交易策略的不对称优势，有利于改善市场情绪，稳定市场走势。
+
+7、**截至8月20日，以半导体（中信）为样本的157家A股产业链公司中，已公布上半年业绩快报、业绩预告和半年报的公司共有68家，其中业绩实现正增长的企业有55家，占比80.88%**；同比增长超过100%的企业有29家，同比增长超过50%的企业有40家；在已公布半年报和业绩快报的38家企业中，二季度环比一季度增长的企业有29家，占比约76.32%。
+
+8、**近1个月来，25家上市公司评级被机构上调。**这些公司主要分布于电子、汽车和食品饮料行业。其中电子行业入围数量最多，有6家。上述公司中，已有23家披露半年报相关业绩数据。按照半年报、业绩快报、预告净利润下限计算，其中22家公司净利润同比增长（含扭亏为盈），占比超过九成。
+
+9、工信部、自然资源部向中国稀土、北方稀土发布通知，2024年第二批稀土开采、冶炼分离总量控制指标分别为135000吨、127000吨。
+
+10、理想汽车称，从未与医施德公司开展任何商务洽谈与合作，公司在7月12日已经通过法务部官方声明澄清事实。针对医施德公司散布的网络谣言，理想汽车已报警。
+
+11、2024百度云智大会将于9月25-26日开幕。今年的百度云智大会以“智能·跃迁”为主题，百度智能云将对基础设施、大模型、开发工具链、AI原生应用等多个云与AI产品做最新发布。
+
+12、蔚来将在2025年6月30日前完成除中国香港和中国台湾外所有省级行政区充“电县县通”，实现每一个县都有蔚来充电桩。此外，蔚来能源新总部将落户武汉光谷数字经济产业园，新建制造中心，目标最大换电站产能达1000+座。
+
+13、快手-W 第二季度总营收同比增长11.6%至310亿元，经调整净利润同比增长73.7%达46.8亿元。来自营销客户的AIGC营销素材消耗单日峰值达2000万元；使用快手搜索的月活跃用户达到近5亿，同时单日搜索次数同比增长超20%；直播业务收入同比下降6.7%至93亿元。
+
+14、小鹏汽车第二季度交付30207辆汽车，同比增30.2%；总营收81.1亿元，同比增60.2%；归属公司普通股东净亏损12.8亿元，上年同期亏损28亿元。
+
+15、泡泡玛特上半年收益约45.58亿元，同比增长62%；公司拥有人应占溢利9.21亿元，同比增长93.3%。
+
+
+
+![img](2024-8-21-wind-DailyFinanceNews/%7B6AB803E7-5F3F-11EF-964D-4CCC6AED08A8%7D.jpg)
+
+
+
+### 金融
+
+1、**支付宝宣布继续落实降费让利政策：小微商户支付费9折、收钱码免费提现再延一年。**
+
+2、四川证监局与成都市委金融办共同签署《促进成都市资本市场高质量发展合作备忘录》，将在开展资本市场金融科技创新试点、建设资本市场综合服务平台、支持符合条件的企业股债融资、防范化解资本市场金融风险等方面深入合作。
+
+3、已有10家理财公司发布上半年理财业务报告，与2023年末相比，尽管理财产品存续规模普遍增长，但理财机构对现金及银行存款的配置有所减少；同时，同业存单、公募基金则成为增配重点。
+
+4、长安银行发布声明，称近期部分媒体及自媒体报道的“12.52亿元存款丢失”事件严重失实，已报案并获受理侦办。
+
+### 楼市
+
+1、住建部召开部党组（扩大）会议强调，要齐心协力把全国住房城乡建设会议提出的各项目标任务完成好，并提早研究谋划明年工作；扎实做好住房城乡建设立法工作，不断提升住房城乡建设工作法治化水平。
+
+2、上海将在浦东等区试点房屋养老金制度，明年将在全市范围推开。
+
+3、福建泉州出台公积金新政，放宽住房公积金贷款准入条件，职工连续足额缴存住房公积金满6个月的，即可申请住房公积金贷款；同时，取消异地贷款户籍地限制，优化军人贷款额度认定办法，拓宽提取公积金支付首付款范围。
+
+### 产业
+
+1、**欧委会披露对华电动汽车反补贴最终调查结果草案，欧盟中国商会回应称，对欧委会这一贸易保护主义做法表示强烈不满和坚决反对。欧盟中国商会再次强调，中国制造电动汽车的优势不是基于补贴，而是基于产业规模、整体供应链优势及市场激烈竞争**。欧盟中国商会呼吁欧盟机构和欧盟成员国客观理性看待中国电动汽车发展及市场机遇，从促进自由贸易、尊重全球化发展以及助力全球绿色转型角度出发，取消对华制造电动汽车的反补贴税安排，真正促进中欧汽车产业链互利共赢发展。
+
+2、**我国将进一步鼓励支持民间资本对核电、铁路等重大领域的投资。**国家能源局相关负责人表示，我国将健全核电项目民资入股工作机制，完善准入条件和遴选程序，建立透明的利益分配和退出机制，研究探索配套支持政策，为民营企业参与核电建设营造更加规范透明的制度环境。
+
+3、工信部部长金壮龙发文指出，数据基础设施是实体经济和数字经济深度融合的重要支撑。要构建全国一体化大数据中心体系，推动智能计算中心有序发展，建设若干国家枢纽节点和大数据中心集群。积极发展车联网等融合基础设施。发展数据空间、隐私计算、区块链、数据脱敏等技术，有效提升数据流通环节安全可靠水平。
+
+4、我国牵头修订的国际标准《道路车辆-乘用车外部防护》（ISO 2958:2024）正式发布，这是汽车被动安全领域首个由我国牵头完成的ISO国际标准。
+
+### 海外
+
+1、**日本央行最新发布的两份研究报告警告称，日本经济中持续存在的通胀压力，表明该行仍有理由再次加息。**目前市场预计，日本央行将在9月的议息会议上暂停加息，但有机构表示，日本央行今年晚些时候或明年1月将再次加息。受日本加息预期影响，日元套利交易持续平仓，推动日元汇率持续大涨。
+
+2、欧元区7月CPI终值同比升2.6%，预期升2.6%，6月终值升2.5%；环比持平，预期持平，6月终值升0.2%。
+
+3、欧元区6月季调后经常帐盈余505.34亿欧元，前值盈余370亿欧元；未季调经常帐盈余524亿欧元，前值盈余96亿欧元。
+
+4、加拿大7月CPI同比升2.5%，预期升2.5%，前值升2.7%；环比升0.4%，预期升0.4%，前值降0.1%。
+
+5、德国7月PPI同比降0.8%，预期降0.8%，前值降1.6%；环比升0.2%，预期升0.2%，前值升0.2%。
+
+6、瑞士7月贸易帐顺差48.89亿瑞郎，前值顺差61.8亿瑞郎。其中，实际出口环比降1.8%，前值降0.3%；进口环比持平，前值升1.0%。
+
+7、瑞典央行8月将关键利率如期下调25基点至3.5%。瑞典央行称，政策利率今年可能再下调两到三次，这一速度略快于委员会在六月的评估。
+
+8、澳洲联储会议纪要显示，现金利率可能需要在“较长一段时间内”保持稳定，委员们一致认为短期内不太可能降息，需要对通胀上行风险保持警惕，政策需保持紧缩，如果通胀风险“显著”增加，立即加息可能是合理的。
+
+9、日本政府计划将下一财年用于编列政府预算的长期利率预估值从今年的1.9%提高到2.1%。
+
+10、贝恩公司报告显示，全球电池需求预计将在2023年至2030年间翻两番，达到4100吉瓦时。
+
+### 国际股市
+
+1、**热门中概股多数下跌，纳斯达克中国金龙指数跌约4%**，唯品会跌17.55%，趣活科技跌10.85%，极氪跌8.22%，一起教育科技跌7.58%，爱奇艺跌7.55%，兆言网络跌6.84%，微博跌6.59%，拼多多跌4.56%，阿里巴巴跌3.43%。涨幅方面，瑞能新能源涨14.91%，燃石医学涨7.35%，叮咚买菜涨5.82%，灿谷涨4.09%，兰亭集势涨3.52%。新能源汽车股全线走低，蔚来跌5.28%，小鹏汽车跌5.97%，理想汽车跌5.4%。
+
+2、特斯拉Optimus人形机器人加速落地，高薪招募数据收集员，明年初启动小批量生产。
+
+3、消息称，苹果首款印度制造的iPhone Pro机型将于今年上市。
+
+4、美国波音公司在777X客机首次试飞中发现其结构出现裂缝，将停飞测试机队，更换故障部件并查明问题原因。
+
+5、沙特阿拉伯的主权财富基金正在与波音公司和空中客车进行探索性磋商，拟成立一家新的货运航空公司，希望将沙特打造成可与迪拜和多哈竞争的物流中心。
+
+6、欧盟批准德国向台积电在德累斯顿的芯片合资企业提供50亿欧元援助，博世、英飞凌和恩智浦也将参与德累斯顿芯片厂项目。
+
+7、北美宝马有限公司在美国召回72.1万辆汽车，因为电气短路问题会增加火灾风险。
+
+8、供应链透露，三星电子以及SK海力士均已提出通知，DDR5单季价格将上涨15%以上。
+
+9、LG公司扩大对人工智能和深度科技初创公司的投资。
+
+10、松下将与斯巴鲁、马自达在电动车电池方面展开合作。
+
+11、知情人士称，印度IT公司Infosys作为可口可乐和微软4月份签署的云迁移协议的支持合作伙伴，可能会获得超过1亿美元的营收。
+
+12、沃尔玛拟以每份24.85-25.85美元卖出1.445亿京东ADR，希望通过出售京东股票筹集至多37.4亿美元。
+
+### 商品
+
+1、**国内商品期货夜盘收盘涨多跌少，热轧卷板涨2.54%**，焦煤涨2.07%，纯碱涨1.88%，铁矿石涨1.76%、甲醇涨1.75%，玻璃涨1.71%。跌幅方面，原油跌1.37%，低硫燃料油跌1.32%，白糖跌0.94%，豆二跌0.70%。基本金属涨跌不一，沪镍涨0.36%，沪锌涨0.19%，不锈钢涨0.18%，沪铝涨0.1%，沪铅跌0.31%，沪锡跌0.49%，沪铜跌0.57%，氧化铝跌2.88%。沪金涨0.21%，沪银涨0.59%。
+
+2**、全国粮食和物资储备工作推进会召开。**会议强调，抓好粮食收购和市场调控，加强粮食市场监测预警，提升粮食应急保障能力，支持引导多元主体踊跃入市，确保夏粮收购圆满收官，及早部署研究秋粮收购工作。
+
+3、国际铝业协会公告，7月份全球原铝产量为619.4万吨，去年同期为604.8万吨，前一个月修正值为598.2万吨；预计7月中国原铝产量为369.0万吨，前一个月修正值为357.0万吨。
+
+4、花旗集团分析，随着亚洲的钢铁生产商正在减少产量，铁矿石价格可能会进一步下滑至每吨80美元的区间。
+
+5、美国至8月16日当周API原油库存增加34.7万桶，预期减少286.7万桶，前值减少520.5万桶。
+
+6、瑞士7月黄金出口量从6月份的68.4吨攀升至106.4吨。其中，对印度增长了5倍，达到35.1吨；对英国增长了5倍多达到24.6吨。
+
+7、周二波罗的海干散货指数涨1.58%报1735点，连续两日上涨。
+
+8、上海有色网最新报价显示，8月20日，国产电池级碳酸锂价格持平报7.46万元/吨，近5日累计跌3340元，近30日累计跌15700元。
+
+### 债券
+
+1、【债市综述】**现券短端走弱，7年期国债活跃券稍强。**5年期国债收益率上行0.35bp，7年期国债下行1.15bp，10年期国债及国开债变化不大。国债期货多数收涨，30年期主力合约涨0.22%。8月LPR利率按兵不动符合市场预期，业内人士称，未来或仍有下调空间。
+
+2、中证转债指数收盘跌0.92%，万得可转债等权指数跌1.19%，均为3年多来新低。其中，华统转债跌7.47%跌幅最大，天创转债20%涨停，涨幅居首。
+
+3、【债券重大事件】①西安建工集团未能兑付“21西安建工MTN001”本息合计2.6亿元②“20旭辉02”审议通过“调整兑付安排”“增加宽限期”等议案③富力香港收到清盘呈请④“19江苏银行二级”、“19兴业银行二级02”、“19张家港农商二级”将全额赎回。
+
+### 外汇
+
+1、**周二在岸人民币对美元16:30收盘报7.1419，较上一交易日跌36个基点，夜盘收报7.1297。**人民币对美元中间价报7.1325，调升90个基点。
+
+2、东方汇理预计，随着日本和美国利差缩小，未来12个月日元兑美元可能达到140。
+
+### 重要经济日程
+
+
+
+![img](2024-8-21-wind-DailyFinanceNews/%7B4A4E172F-5F3F-11EF-964D-4CCC6AED08A8%7D.png)
+
+
+
+**风险提示：**市场有风险，投资需谨慎。本文所提供内容仅供参考，不构成对任何人的投资建议。投资者据此操作，风险自担。
+
+**版权声明：**未经万得书面授权许可，任何机构和个人不得以任何形式复制、引用本文内容和观点，包括不得制作镜像及提供指向链接，万得就此保留一切法律权利。
+
+**免责声明：**本文所引述机构或个人的观点、言论、数据及其他信息仅作参考和资讯传播之目的，不代表万得赞同其观点或证实其描述。如发现违法或不良信息，请拨打电话400-820-9463或发送邮件至jubao@wind.com.cn，我们将及时处理。
+
+![img](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMQAAABUCAYAAADdwJgoAAAACXBIWXMAAC4jAAAuIwF4pT92AAAFIGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjItMDYtMDhUMTQ6MjU6NTcrMDg6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIyLTA2LTA4VDE0OjI2OjE5KzA4OjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIyLTA2LTA4VDE0OjI2OjE5KzA4OjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMyMTUzY2UwLThj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)
+
+**免责声明：**本页面展示内容可支持Wind AI在线翻译，点击标题栏中"EN"按钮可支持一键中英转换。 Wind尽力提供准确的翻译，若翻译内容中出现任何不准确或歧义之处均不具有约束力，也不具有法律效力，仅供参考用途。若您对翻译后的内容有任何疑问，请参考文件的官方版本。若您对Wind AI金融翻译服务感兴趣，可点击进入Wind AI智能开放平台获取更多相关信息。
