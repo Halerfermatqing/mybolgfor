@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 陆家嘴财经早餐2024年8月25日星期日
+title: 陆家嘴财经早餐2024年8月30日星期五
 categories: wind
 description: wind陆家嘴财经新闻
 keywords: wind,财经，陆家嘴，早报
